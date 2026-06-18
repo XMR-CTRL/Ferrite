@@ -1,0 +1,12 @@
+{
+  "name": "Ferrite",
+  "tree": {
+    "$className": "Folder",
+    "Runtime": {
+      "$path": "Runtime.luau"
+    },
+    "Components": {
+      "$path": "components"
+    }
+  }
+}
