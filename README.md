@@ -1,20 +1,20 @@
 # Ferrite
 
-Write Roblox UIs in Rust, get optimized Luau code.
+Write Roblox UIs in Rust, & get optimized Luau code.
 
 ## What it does
 
-Ferrite compiles Rust code to Luau for Roblox UIs. It's type-safe and generates clean, performant code automatically.
+Ferrite compiles Rust code to Luau for Roblox UIs. Its type safe and generates clean, good grade code automatically.
 
 ## Features
 
-- Type-safe Rust with compile-time checking
+- Type safe Rust with compile-time checking
 - Generates optimized Luau with semantic names
 - Dead code elimination
 - Constant pooling for colors and numbers
 - Strict type annotations
 - Proper cleanup tracking (connections, tweens)
-- Signal-based state management
+- Signal based state management
 - TweenService animations
 
 ## Installation
